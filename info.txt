@@ -1,0 +1,1 @@
+To stream prompts from odoo to openclaw
